@@ -90,6 +90,4 @@ trata o valor como cotação em tempo real.
 
 Adicione aqui as imagens do app funcionando (tela inicial, conversão, erro de validação, erro de rede).
 
-## Autor
 
-Preencha com seu nome e turma.
